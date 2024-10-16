@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 	printf("hello");
-	printf("hello GitHub hellow");
+	printf("hello GitHubÅ@hello");
 	printf("pull request");
 	return 0;
 
